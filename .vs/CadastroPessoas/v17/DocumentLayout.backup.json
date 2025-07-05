@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\infrastructure\\services\\currentuserservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\currentuserservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\infrastructure\\persistence\\designtimedbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\designtimedbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\infrastructure\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\interfaces\\ipessoafisicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ipessoafisicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\infrastructure\\migrations\\20250705194434_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF2C74B-40C9-4C10-BD91-6273A7BE6096}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250705194434_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\controllers\\pessoajuridicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\controllers\\pessoajuridicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\api\\controllers\\pessoafisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{291979C8-4872-48B0-8BF3-ECE7139298C4}|Api\\Api.csproj|solutionrelative:api\\controllers\\pessoafisicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\services\\pessoajuridicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\services\\pessoajuridicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\services\\pessoafisicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\services\\pessoafisicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\interfaces\\ipessoajuridicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ipessoajuridicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\dtos\\pessoajuridicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\dtos\\pessoajuridicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\application\\dtos\\pessoafisicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5698F3-0A1A-42F0-8238-E422582C1DB2}|Application\\Application.csproj|solutionrelative:application\\dtos\\pessoafisicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\domain\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|c:\\users\\mathm\\onedrive\\documentos\\paschoalotto\\cadastropessoas\\domain\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CB63BA-1876-4313-A540-853FFB511DD6}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentUserService .cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Services\\CurrentUserService .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CurrentUserService .cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Services\\CurrentUserService .cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CurrentUserService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:17:45.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA4wB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:15:58.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:00:34.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:56:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "Domain\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:05:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T20:21:12.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuditController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:03:40.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\ICurrentUserService.cs",
+              "RelativeToolTip": "Infrastructure\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T20:18:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T20:21:07.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DesignTimeDbContextFactory .cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Persistence\\DesignTimeDbContextFactory .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\DesignTimeDbContextFactory .cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Persistence\\DesignTimeDbContextFactory .cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\DesignTimeDbContextFactory .cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:33:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPessoaFisicaService.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Interfaces\\IPessoaFisicaService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPessoaFisicaService.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Interfaces\\IPessoaFisicaService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPessoaFisicaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:00:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PessoaFisicaController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\PessoaFisicaController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PessoaFisicaController.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\PessoaFisicaController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PessoaFisicaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:02:17.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T18:59:33.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PessoaFisicaService.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Services\\PessoaFisicaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PessoaFisicaService.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Services\\PessoaFisicaService.cs",
+              "RelativeToolTip": "Application\\Services\\PessoaFisicaService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:01:00.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250705194434_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Migrations\\20250705194434_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250705194434_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Infrastructure\\Migrations\\20250705194434_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250705194434_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:49:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:12:42.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T19:32:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PessoaJuridicaService.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Services\\PessoaJuridicaService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PessoaJuridicaService.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Services\\PessoaJuridicaService.cs",
+              "RelativeToolTip": "Application\\Services\\PessoaJuridicaService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:10:48.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPessoaJuridicaService.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Interfaces\\IPessoaJuridicaService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IPessoaJuridicaService.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\Interfaces\\IPessoaJuridicaService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IPessoaJuridicaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:09:20.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PessoaJuridicaController.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\PessoaJuridicaController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PessoaJuridicaController.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Api\\Controllers\\PessoaJuridicaController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PessoaJuridicaController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:02:45.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PessoaJuridicaDto.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\DTOs\\PessoaJuridicaDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PessoaJuridicaDto.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\DTOs\\PessoaJuridicaDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PessoaJuridicaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:07:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PessoaFisicaDto.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\DTOs\\PessoaFisicaDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PessoaFisicaDto.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Application\\DTOs\\PessoaFisicaDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\PessoaFisicaDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:06:32.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\PessoaFisica.cs",
+              "RelativeToolTip": "Domain\\Entities\\PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:59:58.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\mathm\\OneDrive\\Documentos\\paschoalotto\\CadastroPessoas\\Domain\\Entities\\PessoaJuridica.cs",
+              "RelativeToolTip": "Domain\\Entities\\PessoaJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:00:14.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

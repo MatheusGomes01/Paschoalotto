@@ -1,0 +1,202 @@
+[
+  {
+    "ContainingType": "Api.Controllers.AuditController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/audit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tableName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/audit/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Api.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.PessoaFisicaController",
+    "Method": "Cadastrar",
+    "RelativePath": "api/v1/pessoas-fisicas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NomeCompleto",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CPF",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DataNascimento",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Genero",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Endereco",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telefone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "foto",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.PessoaFisicaController",
+    "Method": "Listar",
+    "RelativePath": "api/v1/pessoas-fisicas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.PessoaJuridicaController",
+    "Method": "Cadastrar",
+    "RelativePath": "api/v1/pessoas-juridicas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RazaoSocial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NomeFantasia",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CNPJ",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "InscricaoEstadual",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "InscricaoMunicipal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Endereco",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telefone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RepresentanteLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CPFRepresentanteLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "logotipo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.PessoaJuridicaController",
+    "Method": "Listar",
+    "RelativePath": "api/v1/pessoas-juridicas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

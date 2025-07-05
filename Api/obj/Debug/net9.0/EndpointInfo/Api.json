@@ -1,0 +1,327 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Api",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/v1/audit": {
+      "get": {
+        "tags": [
+          "Audit"
+        ],
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 1
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 20
+            }
+          },
+          {
+            "name": "tableName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "userId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/audit/{id}": {
+      "get": {
+        "tags": [
+          "Audit"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/auth/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/pessoas-fisicas": {
+      "post": {
+        "tags": [
+          "PessoaFisica"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "NomeCompleto": {
+                    "type": "string"
+                  },
+                  "CPF": {
+                    "type": "string"
+                  },
+                  "DataNascimento": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "Genero": {
+                    "type": "string"
+                  },
+                  "Endereco": {
+                    "type": "string"
+                  },
+                  "Telefone": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "foto": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "NomeCompleto": {
+                  "style": "form"
+                },
+                "CPF": {
+                  "style": "form"
+                },
+                "DataNascimento": {
+                  "style": "form"
+                },
+                "Genero": {
+                  "style": "form"
+                },
+                "Endereco": {
+                  "style": "form"
+                },
+                "Telefone": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "foto": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "PessoaFisica"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/pessoas-juridicas": {
+      "post": {
+        "tags": [
+          "PessoaJuridica"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "RazaoSocial": {
+                    "type": "string"
+                  },
+                  "NomeFantasia": {
+                    "type": "string"
+                  },
+                  "CNPJ": {
+                    "type": "string"
+                  },
+                  "InscricaoEstadual": {
+                    "type": "string"
+                  },
+                  "InscricaoMunicipal": {
+                    "type": "string"
+                  },
+                  "Endereco": {
+                    "type": "string"
+                  },
+                  "Telefone": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "RepresentanteLegal": {
+                    "type": "string"
+                  },
+                  "CPFRepresentanteLegal": {
+                    "type": "string"
+                  },
+                  "logotipo": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "RazaoSocial": {
+                  "style": "form"
+                },
+                "NomeFantasia": {
+                  "style": "form"
+                },
+                "CNPJ": {
+                  "style": "form"
+                },
+                "InscricaoEstadual": {
+                  "style": "form"
+                },
+                "InscricaoMunicipal": {
+                  "style": "form"
+                },
+                "Endereco": {
+                  "style": "form"
+                },
+                "Telefone": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "RepresentanteLegal": {
+                  "style": "form"
+                },
+                "CPFRepresentanteLegal": {
+                  "style": "form"
+                },
+                "logotipo": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "PessoaJuridica"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "LoginRequest": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "JWT Authorization header using the Bearer scheme.",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
