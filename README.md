@@ -59,7 +59,7 @@ dotnet ef database update --project Infrastructure --startup-project Api
 
 6. Acesse a documentação Swagger no navegador:
 
-https://localhost:5001/swagger
+https://localhost:7192/swagger
 
 Testando a API
 Use o endpoint /api/v1/auth/login para obter o token JWT:
